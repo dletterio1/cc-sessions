@@ -24,9 +24,7 @@
 
 ## latest updates
 
-latest release - v0.3.0
-
-i'm happy to present cc-sessions v0.3.0
+<strong>latest release - v0.3.0</strong>
 <br>
 <em>it's basically autopilot</em>
 
